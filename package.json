@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ljmerza/reqheadparsemicroservice/issues"
   },
-  "homepage": "https://github.com/ljmerza/reqheadparsemicroservice#readme"
+  "homepage": "https://github.com/ljmerza/reqheadparsemicroservice#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
